@@ -6,11 +6,6 @@ or pre-recorded video footage.
 
 ---
 
-## 📸 Demo
-> Demo video coming soon
-
----
-
 ## 📋 Overview
 
 This system uses a custom trained YOLOv8 model to detect potential security 
