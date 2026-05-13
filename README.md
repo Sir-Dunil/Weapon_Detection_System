@@ -75,14 +75,19 @@ python weapon_detection.py
 Launch the program
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Webcam activates automatically
 System begins scanning for threats
 Status Indicators:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🟢 ALL CLEAR  → No threats detected
+
 🟡 SUSPICIOUS → Masked person detected
+
 🔴 THREAT     → Weapon detected
+
 Press Q to quit
 
 ---
